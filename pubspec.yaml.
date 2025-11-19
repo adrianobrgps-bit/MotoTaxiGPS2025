@@ -1,0 +1,29 @@
+name: mototaxi2025_flutter
+description: Projeto MotoTáxi 2025 com GPS e mapa offline
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_map: ^4.0.0
+  flutter_map_tile_caching: ^6.0.0
+  latlong2: ^0.8.1
+  shared_preferences: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/lottie/
+    - assets/sounds/

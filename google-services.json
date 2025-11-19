@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588384553050",
+    "project_id": "mototaxi2025-6ea21",
+    "storage_bucket": "mototaxi2025-6ea21.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588384553050:android:14e61265467cada9e43063",
+        "android_client_info": {
+          "package_name": "com.lg52.mototaxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZKVzUmDjZGsZ3pPrHaHpiYQ08i1xMWB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
